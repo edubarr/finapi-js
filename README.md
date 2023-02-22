@@ -1,5 +1,5 @@
 # FinAPI - API Financeira
-
+API Financeira simples implementada em JavaScript
 ---
 
 ## Requisitos
